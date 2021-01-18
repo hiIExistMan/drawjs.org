@@ -1,3 +1,2 @@
-# drawjs.org
-============
+# drawjs
 A under development library
